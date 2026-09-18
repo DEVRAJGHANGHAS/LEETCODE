@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0001-two-sum) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
+| [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0704-binary-search](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
