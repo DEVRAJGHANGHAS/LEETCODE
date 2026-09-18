@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0001-two-sum) |
+| [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0704-binary-search](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0214-shortest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
