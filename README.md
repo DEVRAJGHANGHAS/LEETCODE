@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0704-binary-search](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0704-binary-search) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
