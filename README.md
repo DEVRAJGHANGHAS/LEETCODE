@@ -78,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
