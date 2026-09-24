@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0704-binary-search](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0371-sum-of-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
