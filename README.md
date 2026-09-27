@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
