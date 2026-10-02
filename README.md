@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
