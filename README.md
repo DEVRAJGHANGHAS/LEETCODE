@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0214-shortest-palindrome) |
+| [0567-permutation-in-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
