@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -133,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
