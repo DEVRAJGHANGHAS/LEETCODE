@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0567-permutation-in-string) |
 ## String
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -152,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
