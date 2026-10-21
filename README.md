@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
