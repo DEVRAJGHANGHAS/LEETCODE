@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0214-shortest-palindrome) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Design
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
