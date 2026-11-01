@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 ## Union-Find
 |  |
@@ -119,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
