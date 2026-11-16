@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0567-permutation-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/0068-text-justification) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DEVRAJGHANGHAS/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
